@@ -1,5 +1,5 @@
 # 👋 Hi, I'm CleanCodeCraftDev  
-**Software Engineer • Full-Stack • Clean Code Advocate**
+**Software Engineer • Full-Stack • Clean Code Advocate • OpenSource Developer & Maintainer**
 
 I build high-quality apps with clean architecture and pragmatic DX.  
 Part of the [**CleanCodeCraft**](https://github.com/CleanCodeCraft) organization.
